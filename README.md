@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Junho Lee&animation=fadeIn&fontAlign=10&fontAlignY=30&fontSize=30&fontColor=f" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 🌱 I’m currently learning Next.js
 
 ✨ Experiences
