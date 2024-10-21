@@ -6,7 +6,7 @@
 
 - UMC of KyungHee Univ. 5th BE(Node.js) Crew  <sub>2023.09 ~ 2024.02 </sub> 
 - ACC(AWS Cloud Clubs) of KyungHee Univ. 2nd Crew <sub>2024.03 ~ now </sub>
-- GDG<sub>Google Delvelopers Group)</sub> on Campus KyungHee 1st Crew <sub>2024.09 ~ now </sub>
+- GDG<sub>Google Delvelopers Group</sub> on Campus KyungHee 1st Crew <sub>2024.09 ~ now </sub>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
